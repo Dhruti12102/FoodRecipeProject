@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_check_24.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\ic_baseline_check_24.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_image.jpg.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\image.jpg"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_detail.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\layout\\activity_detail.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_cancel_presentation_24.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\ic_baseline_cancel_presentation_24.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\menu_bottom_nav_menu.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_user.png.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\ic_user.png"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_account_circle_24.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\ic_baseline_account_circle_24.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_favorite_border_24.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\ic_baseline_favorite_border_24.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_local_phone_24.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\ic_baseline_local_phone_24.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_register.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_notifications.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\layout\\fragment_notifications.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\circle.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_lock_24.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\ic_baseline_lock_24.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_person_24.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\ic_baseline_person_24.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_exit_to_app_24.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\ic_baseline_exit_to_app_24.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_dashboard.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\layout\\fragment_dashboard.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_profile.jpg.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\profile.jpg"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_recycler_row_item.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\layout\\recycler_row_item.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_favorite_24.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\ic_baseline_favorite_24.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_email_24.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\ic_baseline_email_24.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_favorites.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\layout\\fragment_favorites.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_autorenew_24.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\ic_baseline_autorenew_24.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_favorite.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\ic_baseline_favorite.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_login.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_home_black_24dp.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_upload__recipe.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\layout\\activity_upload__recipe.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_baseline_add_24.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\ic_baseline_add_24.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_fragment_home.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_border.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\circle_border.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_grad.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\grad.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_authentication.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\layout\\activity_authentication.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_update_recipe.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\layout\\activity_update_recipe.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_placeholder.png.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\placeholder.png"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable_circle_crop.png.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable\\circle_crop.png"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\navigation_mobile_navigation.xml.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\navigation\\mobile_navigation.xml"
+    },
+    {
+        "merged": "D:\\mca\\food-recipe-android-app-master\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_image2.jpg.flat",
+        "source": "D:\\mca\\food-recipe-android-app-master\\app\\src\\main\\res\\drawable-v24\\image2.jpg"
+    }
+]

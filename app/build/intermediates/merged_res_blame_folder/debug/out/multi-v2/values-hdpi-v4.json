@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "ca.sample.foodrecipeapp-mergeDebugResources-27:/values-hdpi-v4/values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dhruti\\.gradle\\caches\\transforms-3\\00daf81701969066395eb7508dfe2329\\transformed\\appcompat-1.2.0\\res\\values-hdpi-v4\\values-hdpi-v4.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "327"
+                    }
+                }
+            ]
+        }
+    ]
+}

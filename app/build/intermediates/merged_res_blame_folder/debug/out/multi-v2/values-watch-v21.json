@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "ca.sample.foodrecipeapp-mergeDebugResources-27:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\dhruti\\.gradle\\caches\\transforms-3\\00daf81701969066395eb7508dfe2329\\transformed\\appcompat-1.2.0\\res\\values-watch-v21\\values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}
